@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: concurrency-mc
+  datasource:
+     driver-class-name: org.gjt.mm.mysql.Driver
+     url: jdbc:mysql://118.24.44.206:3306/springboot
+     username: maxwell
+     password: 520806
+server:
+  port: 8080
