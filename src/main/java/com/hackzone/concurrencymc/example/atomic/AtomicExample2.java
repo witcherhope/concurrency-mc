@@ -1,11 +1,10 @@
-package com.hackzone.concurrencymc.atomic;
+package com.hackzone.concurrencymc.example.atomic;
 
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.LongAdder;
 
 @Slf4j

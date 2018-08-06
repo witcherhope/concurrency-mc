@@ -1,6 +1,6 @@
 package com.hackzone.concurrencymc.example.count;
 
-import com.hackzone.concurrencymc.annoations.ThreadSafe;
+import com.hackzone.concurrencymc.example.annoations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.CountDownLatch;

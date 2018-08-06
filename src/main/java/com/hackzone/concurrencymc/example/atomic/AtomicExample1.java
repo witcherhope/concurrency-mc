@@ -1,4 +1,4 @@
-package com.hackzone.concurrencymc.atomic;
+package com.hackzone.concurrencymc.example.atomic;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.hackzone.concurrencymc.annoations;
+package com.hackzone.concurrencymc.example.annoations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
